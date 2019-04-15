@@ -25,11 +25,11 @@
 			<optional>true</optional>
 		</dependency>
 		
-		<!-- 安全模块，只要配置就会自动生效 -->
+		<!-- 安全模块，只要配置就会自动生效 >
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>
+        </dependency-->
         <!-- 数据库相关配置 -->
         <dependency>
             <groupId>org.postgresql</groupId>
